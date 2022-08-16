@@ -1,6 +1,8 @@
 
 # WebAPI（デスク環境の写真投稿サイト）
 
+設計についてはこちらで解説しています
+https://qiita.com/ryoh07/items/8ebac006c5294b9b3f58
 
 ## API
 
